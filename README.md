@@ -12,6 +12,6 @@ apt install python
 
 git clone https://github.com/AnonGreyHat/Gmail-BruteForce
 
-cd Gmail-brute
+cd Gmail-BruteForce 
 
-python Gmail-brute.py
+python gmail.py
